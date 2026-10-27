@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+hd_frames/
+*_zoom.png
+*.log

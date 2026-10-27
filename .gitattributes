@@ -1,0 +1,6 @@
+*.py text eol=lf
+*.md text eol=lf
+*.png binary
+*.bin binary
+*.dsv binary
+*.mp4 binary
